@@ -1,0 +1,5 @@
+C:/Users/Bharath/Desktop/cmake_practice/cmake_practice2/build/CMakeFiles/main_project_FLASH.dir
+C:/Users/Bharath/Desktop/cmake_practice/cmake_practice2/build/CMakeFiles/main_project_RAM.dir
+C:/Users/Bharath/Desktop/cmake_practice/cmake_practice2/build/CMakeFiles/clean-all.dir
+C:/Users/Bharath/Desktop/cmake_practice/cmake_practice2/build/CMakeFiles/edit_cache.dir
+C:/Users/Bharath/Desktop/cmake_practice/cmake_practice2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,620 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o) (_exit)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                              CMakeFiles/main_project_RAM.dir/src/clock_S32K1xx.c.obj (__aeabi_uidiv)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                              CMakeFiles/main_project_RAM.dir/src/clock_S32K1xx.c.obj (__aeabi_idiv)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+                              CMakeFiles/main_project_RAM.dir/src/startup.c.obj (memcpy)
+
+Discarded input sections
+
+ .FlashConfig   0x00000000       0x10 C:\Users\Bharath\AppData\Local\Temp\ccBqJxyg.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_custom         0x1ffffc00         0x00000400         rw
+m_interrupts     0x20000000         0x000000c0         xr
+m_text           0x200000c0         0x00004000         xr
+m_data           0x200040c0         0x00001740         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD C:\Users\Bharath\AppData\Local\Temp\ccBqJxyg.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+LOAD CMakeFiles/main_project_RAM.dir/src/Cpu.c.obj
+LOAD CMakeFiles/main_project_RAM.dir/src/clockMan1.c.obj
+LOAD CMakeFiles/main_project_RAM.dir/src/clock_S32K1xx.c.obj
+LOAD CMakeFiles/main_project_RAM.dir/src/interrupt_manager.c.obj
+LOAD CMakeFiles/main_project_RAM.dir/src/pin_mux.c.obj
+LOAD CMakeFiles/main_project_RAM.dir/src/pins_driver.c.obj
+LOAD CMakeFiles/main_project_RAM.dir/src/pins_port_hw_access.c.obj
+LOAD CMakeFiles/main_project_RAM.dir/src/startup.c.obj
+LOAD CMakeFiles/main_project_RAM.dir/src/system_S32K118.c.obj
+LOAD CMakeFiles/main_project_RAM.dir/source/main.c.obj
+START GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+END GROUP
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x00000200                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x200
+                0x00000200                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x200
+
+.interrupts     0x20000000       0xc0
+                0x20000000                __VECTOR_TABLE = .
+                0x20000000                __interrupts_start__ = .
+                0x20000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x20000000       0xc0 C:\Users\Bharath\AppData\Local\Temp\ccBqJxyg.o
+                0x20000000                __isr_vector
+                0x200000c0                __interrupts_end__ = .
+                0x200000c0                . = ALIGN (0x4)
+                0x20000000                __VECTOR_RAM = __VECTOR_TABLE
+                0x00000000                __RAM_VECTOR_TABLE_SIZE = 0x0
+
+.ARM.extab      0x200000c0        0x0
+ .ARM.extab     0x200000c0        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+
+.text           0x200000c0     0x30ec
+                0x200000c0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x200000c0        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .text          0x200000c0       0x48 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x20000108       0x80 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+                0x20000108                _stack_init
+                0x20000114                _start
+                0x20000114                _mainCRTStartup
+ .text          0x20000188       0x44 C:\Users\Bharath\AppData\Local\Temp\ccBqJxyg.o
+                0x20000188                Reset_Handler
+                0x200001c8                SysTick_Handler
+                0x200001c8                ERM_fault_IRQHandler
+                0x200001c8                PendSV_Handler
+                0x200001c8                NMI_Handler
+                0x200001c8                DMA2_IRQHandler
+                0x200001c8                LPIT0_IRQHandler
+                0x200001c8                ADC0_IRQHandler
+                0x200001c8                FTM0_Ovf_Reload_IRQHandler
+                0x200001c8                FTM1_Ch0_7_IRQHandler
+                0x200001c8                DefaultISR
+                0x200001c8                SCG_CMU_LVD_LVWSCG_IRQHandler
+                0x200001c8                FTM0_Ch0_7_IRQHandler
+                0x200001c8                RTC_IRQHandler
+                0x200001c8                PDB0_IRQHandler
+                0x200001c8                HardFault_Handler
+                0x200001c8                CAN0_ORed_Err_Wakeup_IRQHandler
+                0x200001c8                LPSPI1_IRQHandler
+                0x200001c8                LPUART1_RxTx_IRQHandler
+                0x200001c8                RTC_Seconds_IRQHandler
+                0x200001c8                CAN0_ORed_0_31_MB_IRQHandler
+                0x200001c8                FTFC_IRQHandler
+                0x200001c8                LPSPI0_IRQHandler
+                0x200001c8                FTM0_Fault_IRQHandler
+                0x200001c8                SVC_Handler
+                0x200001c8                RCM_IRQHandler
+                0x200001c8                DMA3_IRQHandler
+                0x200001c8                DMA0_IRQHandler
+                0x200001c8                FTM1_Fault_IRQHandler
+                0x200001c8                DMA_Error_IRQHandler
+                0x200001c8                LPI2C0_Master_Slave_IRQHandler
+                0x200001c8                LPUART0_RxTx_IRQHandler
+                0x200001c8                WDOG_IRQHandler
+                0x200001c8                LPTMR0_IRQHandler
+                0x200001c8                FTM1_Ovf_Reload_IRQHandler
+                0x200001c8                CMP0_IRQHandler
+                0x200001c8                PORT_IRQHandler
+                0x200001c8                FLEXIO_IRQHandler
+                0x200001c8                DMA1_IRQHandler
+ .text          0x200001cc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .text          0x200001cc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .text          0x200001cc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .text          0x200001cc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .text          0x200001cc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text          0x200001cc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+ .text          0x200001cc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+ .text          0x200001cc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .text          0x200001cc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+ .text          0x200001cc        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .text          0x200001cc        0x0 CMakeFiles/main_project_RAM.dir/src/Cpu.c.obj
+ .text          0x200001cc        0x0 CMakeFiles/main_project_RAM.dir/src/clockMan1.c.obj
+ .text          0x200001cc     0x1f54 CMakeFiles/main_project_RAM.dir/src/clock_S32K1xx.c.obj
+                0x20000ebc                CLOCK_DRV_Init
+                0x20001334                CLOCK_DRV_GetFreq
+                0x20001738                CLOCK_DRV_SetModuleClock
+                0x200018a0                CLOCK_DRV_SetSystemClock
+                0x20001b6c                CLOCK_DRV_GetSystemClockSource
+                0x20001bb4                CLOCK_DRV_SetClockSource
+                0x20001f28                CLOCK_SYS_Init
+                0x20001f40                CLOCK_SYS_UpdateConfiguration
+                0x200020e8                CLOCK_SYS_GetCurrentConfiguration
+                0x200020f4                CLOCK_SYS_GetErrorCallback
+                0x20002110                CLOCK_SYS_GetFreq
+                0x20002118                CLOCK_SYS_SetConfiguration
+ .text          0x20002120      0x170 CMakeFiles/main_project_RAM.dir/src/interrupt_manager.c.obj
+                0x20002120                INT_SYS_InstallHandler
+                0x20002138                INT_SYS_EnableIRQ
+                0x20002150                INT_SYS_DisableIRQ
+                0x20002168                INT_SYS_EnableIRQGlobal
+                0x20002180                INT_SYS_DisableIRQGlobal
+                0x20002190                INT_SYS_SetPriority
+                0x20002204                INT_SYS_GetPriority
+                0x20002244                INT_SYS_ClearPending
+                0x2000225c                INT_SYS_SetPending
+                0x20002274                INT_SYS_GetPending
+ .text          0x20002290        0x0 CMakeFiles/main_project_RAM.dir/src/pin_mux.c.obj
+ .text          0x20002290      0x13c CMakeFiles/main_project_RAM.dir/src/pins_driver.c.obj
+                0x20002290                PINS_DRV_Init
+                0x200022ac                PINS_DRV_SetPullSel
+                0x200022e8                PINS_DRV_SetMuxModeSel
+                0x200022f0                PINS_DRV_SetPinIntSel
+                0x2000230c                PINS_DRV_GetPinIntSel
+                0x20002318                PINS_DRV_ClearPinIntFlagCmd
+                0x20002328                PINS_DRV_EnableDigitalFilter
+                0x20002338                PINS_DRV_DisableDigitalFilter
+                0x20002348                PINS_DRV_ConfigDigitalFilter
+                0x20002360                PINS_DRV_GetPortIntFlag
+                0x20002368                PINS_DRV_ClearPortIntFlagCmd
+                0x20002374                PINS_DRV_GetPinsDirection
+                0x20002378                PINS_DRV_SetPinDirection
+                0x2000238c                PINS_DRV_SetPinsDirection
+                0x20002390                PINS_DRV_SetGlobalPinControl
+                0x20002398                PINS_DRV_SetGlobalIntControl
+                0x200023a0                PINS_DRV_WritePin
+                0x200023b4                PINS_DRV_WritePins
+                0x200023b8                PINS_DRV_GetPinsOutput
+                0x200023bc                PINS_DRV_SetPins
+                0x200023c0                PINS_DRV_ClearPins
+                0x200023c4                PINS_DRV_TogglePins
+                0x200023c8                PINS_DRV_ReadPins
+ .text          0x200023cc      0x13c CMakeFiles/main_project_RAM.dir/src/pins_port_hw_access.c.obj
+                0x200023cc                PINS_Init
+                0x200024a0                PINS_SetMuxModeSel
+                0x200024bc                PINS_SetGlobalPinControl
+                0x200024e4                PINS_SetGlobalIntControl
+ .text          0x20002508       0x9c CMakeFiles/main_project_RAM.dir/src/startup.c.obj
+                0x20002508                init_data_bss
+ .text          0x200025a4       0x98 CMakeFiles/main_project_RAM.dir/src/system_S32K118.c.obj
+                0x200025a4                SystemInit
+                0x200025c8                SystemCoreClockUpdate
+                0x2000261c                SystemSoftwareReset
+ .text          0x2000263c        0x0 CMakeFiles/main_project_RAM.dir/source/main.c.obj
+ .text          0x2000263c      0x114 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+                0x2000263c                __aeabi_uidiv
+                0x2000263c                __udivsi3
+                0x20002748                __aeabi_uidivmod
+ .text          0x20002750      0x1d4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                0x20002750                __divsi3
+                0x20002750                __aeabi_idiv
+                0x2000291c                __aeabi_idivmod
+ .text          0x20002924        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x20002924                __aeabi_idiv0
+                0x20002924                __aeabi_ldiv0
+ .text          0x20002928        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+ .text          0x20002928        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x20002928        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *(.text*)
+ .text.exit     0x20002928       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+                0x20002928                exit
+ .text.__libc_init_array
+                0x20002948       0x44 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+                0x20002948                __libc_init_array
+ .text.memset   0x2000298c       0xa8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+                0x2000298c                memset
+ .text.startup.register_fini
+                0x20002a34       0x18 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x20002a4c       0xf8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x20002a4c                __call_exitprocs
+ .text.atexit   0x20002b44       0x10 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+                0x20002b44                atexit
+ .text.__libc_fini_array
+                0x20002b54       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+                0x20002b54                __libc_fini_array
+ .text.__retarget_lock_init
+                0x20002b7c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20002b7c                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x20002b80        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20002b80                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x20002b84        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20002b84                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x20002b88        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20002b88                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x20002b8c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20002b8c                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x20002b90        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20002b90                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x20002b94        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20002b94                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x20002b98        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20002b98                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x20002b9c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20002b9c                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x20002ba0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20002ba0                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x20002ba4       0xac c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+                0x20002ba4                __register_exitproc
+ .text._exit    0x20002c50        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+                0x20002c50                _exit
+ .text.startup  0x20002c54       0x48 CMakeFiles/main_project_RAM.dir/source/main.c.obj
+                0x20002c54                main
+ .text.memcpy   0x20002c9c       0xa4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+                0x20002c9c                memcpy
+ *(.rodata)
+ .rodata        0x20002d40       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata        0x20002d64      0x404 CMakeFiles/main_project_RAM.dir/src/clock_S32K1xx.c.obj
+                0x2000305c                peripheralFeaturesList
+                0x200030dc                clockNameMappings
+ .rodata        0x20003168       0x24 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x2000318c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+                0x2000318c                _global_impure_ptr
+ *(.init)
+ .init          0x20003190        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x20003190                _init
+ .init          0x20003194        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x2000319c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x2000319c                _fini
+ .fini          0x200031a0        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *(.eh_frame)
+ .eh_frame      0x200031a8        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .eh_frame      0x200031a8        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+                0x200031ac                . = ALIGN (0x4)
+
+.glue_7         0x200031ac        0x0
+ .glue_7        0x200031ac        0x0 linker stubs
+
+.glue_7t        0x200031ac        0x0
+ .glue_7t       0x200031ac        0x0 linker stubs
+
+.vfp11_veneer   0x200031ac        0x0
+ .vfp11_veneer  0x200031ac        0x0 linker stubs
+
+.v4_bx          0x200031ac        0x0
+ .v4_bx         0x200031ac        0x0 linker stubs
+
+.iplt           0x200031ac        0x0
+ .iplt          0x200031ac        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.ARM            0x200031ac        0x8
+                0x200031ac                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x200031ac        0x8 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+                                 0x10 (size before relaxing)
+                0x200031b4                __exidx_end = .
+
+.rel.dyn        0x200031b4        0x0
+ .rel.iplt      0x200031b4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.code_ram       0x200031b4        0x0
+                0x200031b4                . = ALIGN (0x4)
+                0x200031b4                __CODE_RAM = .
+                0x200031b4                __code_ram_start__ = .
+ *(.code_ram)
+                0x200031b4                __CODE_ROM = .
+                0x200031b4                __CODE_END = .
+                0x200031b4                __code_ram_end__ = .
+                0x200031b4                . = ALIGN (0x4)
+                0x200031b4                __etext = .
+                0x200031b4                __DATA_ROM = .
+                0x200031b4                __DATA_END = __DATA_ROM
+
+.customSectionBlock
+                0x1ffffc00        0x0
+                0x1ffffc00                __customSectionStart = .
+                0x1ffffc00                __customSection_start__ = .
+ *(.customSection)
+                0x1ffffc00                __customSection_end__ = .
+                0x1ffffc00                __CUSTOM_ROM = .
+                0x1ffffc00                __CUSTOM_END = .
+
+.data           0x200040c0      0x55c
+                0x200040c0                . = ALIGN (0x4)
+                0x200040c0                __DATA_RAM = .
+                0x200040c0                __data_start__ = .
+ *(.data)
+ .data          0x200040c0        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x200040c0        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x200040c0                __dso_handle
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x200040c4        0x0 C:\Users\Bharath\AppData\Local\Temp\ccBqJxyg.o
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+ .data          0x200040c4        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .data          0x200040c4        0x0 CMakeFiles/main_project_RAM.dir/src/Cpu.c.obj
+ .data          0x200040c4       0x95 CMakeFiles/main_project_RAM.dir/src/clockMan1.c.obj
+                0x200040c4                g_clockManConfigsArr
+                0x200040c8                clockMan1_InitConfig0
+                0x20004140                peripheralClockConfig0
+ *fill*         0x20004159        0x3 
+ .data          0x2000415c       0x73 CMakeFiles/main_project_RAM.dir/src/clock_S32K1xx.c.obj
+ .data          0x200041cf        0x0 CMakeFiles/main_project_RAM.dir/src/interrupt_manager.c.obj
+ *fill*         0x200041cf        0x1 
+ .data          0x200041d0       0x18 CMakeFiles/main_project_RAM.dir/src/pin_mux.c.obj
+                0x200041d0                g_pin_mux_InitConfigArr
+ .data          0x200041e8        0x0 CMakeFiles/main_project_RAM.dir/src/pins_driver.c.obj
+ .data          0x200041e8        0x0 CMakeFiles/main_project_RAM.dir/src/pins_port_hw_access.c.obj
+ .data          0x200041e8        0x0 CMakeFiles/main_project_RAM.dir/src/startup.c.obj
+ .data          0x200041e8        0x4 CMakeFiles/main_project_RAM.dir/src/system_S32K118.c.obj
+                0x200041e8                SystemCoreClock
+ .data          0x200041ec        0x0 CMakeFiles/main_project_RAM.dir/source/main.c.obj
+ .data          0x200041ec        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .data          0x200041ec        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .data          0x200041ec        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x200041ec        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+ .data          0x200041ec        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x200041ec        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *(.data*)
+ .data._impure_ptr
+                0x200041ec        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+                0x200041ec                _impure_ptr
+ .data.impure_data
+                0x200041f0      0x428 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20004618        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x20004618                __atexit_recursive_mutex
+                0x2000461c                . = ALIGN (0x4)
+                0x2000461c                __data_end__ = .
+
+.init_array     0x2000461c        0x4
+ .init_array    0x2000461c        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.fini_array     0x20004620        0x4
+ .fini_array    0x20004620        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.igot.plt       0x20004624        0x0
+ .igot.plt      0x20004624        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.init_array.00000
+                0x20004624        0x4
+ .init_array.00000
+                0x20004624        0x4 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+
+.bss            0x20004628       0x70
+                0x20004628                . = ALIGN (0x4)
+                0x20004628                __BSS_START = .
+                0x20004628                __bss_start__ = .
+ *(.bss)
+ .bss           0x20004628        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x20004628       0x1c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x20004644        0x0 C:\Users\Bharath\AppData\Local\Temp\ccBqJxyg.o
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+ .bss           0x20004644        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .bss           0x20004644        0x0 CMakeFiles/main_project_RAM.dir/src/Cpu.c.obj
+ .bss           0x20004644        0x4 CMakeFiles/main_project_RAM.dir/src/clockMan1.c.obj
+                0x20004644                g_clockManCallbacksArr
+ .bss           0x20004648       0x24 CMakeFiles/main_project_RAM.dir/src/clock_S32K1xx.c.obj
+                0x20004648                g_xtal0ClkFreq
+                0x2000464c                g_RtcClkInFreq
+                0x20004650                g_TClkFreq
+ .bss           0x2000466c        0x4 CMakeFiles/main_project_RAM.dir/src/interrupt_manager.c.obj
+ .bss           0x20004670        0x0 CMakeFiles/main_project_RAM.dir/src/pin_mux.c.obj
+ .bss           0x20004670        0x0 CMakeFiles/main_project_RAM.dir/src/pins_driver.c.obj
+ .bss           0x20004670        0x0 CMakeFiles/main_project_RAM.dir/src/pins_port_hw_access.c.obj
+ .bss           0x20004670        0x0 CMakeFiles/main_project_RAM.dir/src/startup.c.obj
+ .bss           0x20004670        0x0 CMakeFiles/main_project_RAM.dir/src/system_S32K118.c.obj
+ .bss           0x20004670        0x4 CMakeFiles/main_project_RAM.dir/source/main.c.obj
+                0x20004670                exit_code
+ .bss           0x20004674        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .bss           0x20004674        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .bss           0x20004674        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x20004674        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+ .bss           0x20004674        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x20004674        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ *(.bss*)
+ .bss.__lock___arc4random_mutex
+                0x20004674        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20004674                __lock___arc4random_mutex
+ *fill*         0x20004675        0x3 
+ .bss.__lock___at_quick_exit_mutex
+                0x20004678        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20004678                __lock___at_quick_exit_mutex
+ *fill*         0x20004679        0x3 
+ .bss.__lock___atexit_recursive_mutex
+                0x2000467c        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x2000467c                __lock___atexit_recursive_mutex
+ *fill*         0x2000467d        0x3 
+ .bss.__lock___dd_hash_mutex
+                0x20004680        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20004680                __lock___dd_hash_mutex
+ *fill*         0x20004681        0x3 
+ .bss.__lock___env_recursive_mutex
+                0x20004684        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20004684                __lock___env_recursive_mutex
+ *fill*         0x20004685        0x3 
+ .bss.__lock___malloc_recursive_mutex
+                0x20004688        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20004688                __lock___malloc_recursive_mutex
+ *fill*         0x20004689        0x3 
+ .bss.__lock___sfp_recursive_mutex
+                0x2000468c        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x2000468c                __lock___sfp_recursive_mutex
+ *fill*         0x2000468d        0x3 
+ .bss.__lock___sinit_recursive_mutex
+                0x20004690        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20004690                __lock___sinit_recursive_mutex
+ *fill*         0x20004691        0x3 
+ .bss.__lock___tz_mutex
+                0x20004694        0x1 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+                0x20004694                __lock___tz_mutex
+ *(COMMON)
+                0x20004698                . = ALIGN (0x4)
+ *fill*         0x20004695        0x3 
+                0x20004698                __bss_end__ = .
+                0x20004698                __BSS_END = .
+
+.heap           0x20004698      0x200
+                0x20004698                . = ALIGN (0x8)
+                0x20004698                __end__ = .
+                0x20004698                __heap_start__ = .
+                [!provide]                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                [!provide]                PROVIDE (__end = .)
+                0x20004698                __HeapBase = .
+                0x20004898                . = (. + HEAP_SIZE)
+ *fill*         0x20004698      0x200 
+                0x20004898                __HeapLimit = .
+                0x20004898                __heap_limit = .
+                0x20004898                __heap_end__ = .
+                0x20005800                __StackTop = (ORIGIN (m_data) + LENGTH (m_data))
+                0x20005600                __StackLimit = (__StackTop - STACK_SIZE)
+                0x20005800                PROVIDE (__stack = __StackTop)
+
+.stack          0x20005600      0x200
+                0x20005600                . = ALIGN (0x8)
+                0x20005600                __stack_start__ = .
+                0x20005800                . = (. + STACK_SIZE)
+ *fill*         0x20005600      0x200 
+                0x20005800                __stack_end__ = .
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000065       0x1b C:\Users\Bharath\AppData\Local\Temp\ccBqJxyg.o
+ .ARM.attributes
+                0x00000080       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000ac       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000d8       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000104       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000130       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000015c       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000188       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000001b4       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000001e0       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000020c       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000238       0x2c CMakeFiles/main_project_RAM.dir/src/Cpu.c.obj
+ .ARM.attributes
+                0x00000264       0x2c CMakeFiles/main_project_RAM.dir/src/clockMan1.c.obj
+ .ARM.attributes
+                0x00000290       0x2c CMakeFiles/main_project_RAM.dir/src/clock_S32K1xx.c.obj
+ .ARM.attributes
+                0x000002bc       0x2c CMakeFiles/main_project_RAM.dir/src/interrupt_manager.c.obj
+ .ARM.attributes
+                0x000002e8       0x2c CMakeFiles/main_project_RAM.dir/src/pin_mux.c.obj
+ .ARM.attributes
+                0x00000314       0x2c CMakeFiles/main_project_RAM.dir/src/pins_driver.c.obj
+ .ARM.attributes
+                0x00000340       0x2c CMakeFiles/main_project_RAM.dir/src/pins_port_hw_access.c.obj
+ .ARM.attributes
+                0x0000036c       0x2c CMakeFiles/main_project_RAM.dir/src/startup.c.obj
+ .ARM.attributes
+                0x00000398       0x2c CMakeFiles/main_project_RAM.dir/src/system_S32K118.c.obj
+ .ARM.attributes
+                0x000003c4       0x2c CMakeFiles/main_project_RAM.dir/source/main.c.obj
+ .ARM.attributes
+                0x000003f0       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000040e       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000042c       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000044a       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000476       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x000004a2       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
+
+/DISCARD/
+ *(.FlashConfig)
+OUTPUT(main_project_RAM.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_frame    0x00000000      0x2ac
+ .debug_frame   0x00000000       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000028       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ .debug_frame   0x00000054       0x30 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000084       0x54 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000000d8       0x28 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000100       0x2c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-fini.o)
+ .debug_frame   0x0000012c       0xb0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-lock.o)
+ .debug_frame   0x000001dc       0x3c c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000218       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a(_exit.o)
+ .debug_frame   0x00000238       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000258       0x20 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000278       0x34 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-memcpy-stub.o)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 CMakeFiles/main_project_RAM.dir/src/Cpu.c.obj
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a CMakeFiles/main_project_RAM.dir/src/clockMan1.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/main_project_RAM.dir/src/clock_S32K1xx.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/main_project_RAM.dir/src/interrupt_manager.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/main_project_RAM.dir/src/pin_mux.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/main_project_RAM.dir/src/pins_driver.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/main_project_RAM.dir/src/pins_port_hw_access.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/main_project_RAM.dir/src/startup.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/main_project_RAM.dir/src/system_S32K118.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/main_project_RAM.dir/source/main.c.obj
